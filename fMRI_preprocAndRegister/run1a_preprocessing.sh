@@ -1,3 +1,10 @@
+   #                                                                                                   #
+  #######################################################################################################
+ ### Author: Sebastien Proulx, sebastien.proulx2@mail.mcgill.ca, https://orcid.org/0000-0003-1709-3277 ###
+#### Github upload date: 2021/12/06                                                                    ####
+ ### Licence: CC-BY-4.0                                                                                ###
+  #######################################################################################################
+   #                                                                                                   #
 #!/bin/tcsh -ex
 set dataDir1=/media/MVR_data2/sebastien/rawData/20160424_HR_decoding_SK/HR_decoding_SK_20160424_001_004plus__mag
 set dataDir2=/media/MVR_data2/sebastien/rawData/20160424_HR_decoding_SK_2/HR_decoding_SK_2_20160424_001_004plus__mag
