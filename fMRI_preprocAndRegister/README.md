@@ -9,4 +9,6 @@ sebastien.proulx2@mail.mcgill.ca
 https://orcid.org/0000-0003-1709-3277
 
 ## Instructions
-These scripts are not well catered. If you have interest, please contact the author, he will be happy to help by building some documentation on the fly here for you.
+Requires Afni and Freesurfer toolboxes.  
+Not well catered. There may even be missing subfunctions.  
+If you have interest, please contact the author, he will be happy to help by building some documentation on the fly here for you.
